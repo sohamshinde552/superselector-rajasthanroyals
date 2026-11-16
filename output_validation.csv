@@ -1,0 +1,3 @@
+is_high_pressure,deliveries,pct_deliveries,avg_runs_per_ball,implied_run_rate,boundary_pct,wicket_rate_pct,situation
+False,147234,75.9,1.399,8.39,17.95,4.87,Ordinary (PI < 0.65)
+True,46754,24.1,1.483,8.9,18.43,7.06,High Pressure (PI >= 0.65)
